@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Mafiasiddharth
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m siddharth
+- 👀 I’m interested in coding
+- 🌱 I’m currently learning python
+- 📫 you can contact me on telegram 
+[CLICK HERE FOR CONTACT](@owner_of_eagle_mafia)
 
 <!---
 Mafiasiddharth/Mafiasiddharth is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
