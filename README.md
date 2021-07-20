@@ -2,7 +2,7 @@
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning python
 - 📫 you can contact me on telegram 
-[CLICK HERE FOR CONTACT](https://t.me/owner_of_eagle_mafia)
+[CLICK HERE FOR CONTACT] @TEAM_EAGLE_BLACK_MAFIA_OWNER
 
 <!---
 Mafiasiddharth/Mafiasiddharth is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
